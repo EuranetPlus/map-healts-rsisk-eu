@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Wat zijn de gevolgen van luchtvervuiling voor onze gezondheid?",
+  "subtitle": "De gemiddelde gezondheidskosten per hoofd van de bevolking in de EU als gevolg van luchtvervuiling bedragen in totaal € 1276 per jaar.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Het onderzoek is in 2018 uitgevoerd in 432 geselecteerde steden in Europa. De zichtbare landspecifieke cijfers zijn berekend als gemiddelde op basis van de cijfers die voor de onderzochte steden in het betreffende land beschikbaar zijn.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europese Alliantie voor de Volksgezondheid (2018)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "€ per hoofd van de bevolking",
   "tooltipExtraInfoLabel": "Klik hier"
 }
