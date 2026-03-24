@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad atá truailliú aeir ag cur as dár sláinte?",
+  "subtitle": "Is ionann meánchostais sláinte in aghaidh an duine san AE mar gheall ar thruailliú aeir agus €1276 in aghaidh na bliana.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Rinneadh an staidéar in 2018 ar 432 chathair roghnaithe san Eoraip. Rinneadh na figiúirí tír-shonracha infheicthe a ríomh mar mheán bunaithe ar na figiúirí a thugtar do na cathracha a scrúdaíodh sa tír faoi seach.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Comhghuaillíocht Sláinte Phoiblí na hEorpa (2018)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "€ in aghaidh an duine",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
