@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik znečištění ovzduší stojí naše zdraví?",
+  "subtitle": "Průměrné náklady na zdravotní péči na obyvatele v EU v důsledku znečištění ovzduší dosahují celkem 1276 EUR ročně.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Studie byla provedena v roce 2018 pro 432 vybraných měst v Evropě. Viditelné údaje specifické pro jednotlivé země byly vypočítány jako průměr na základě údajů, které jsou uvedeny pro zkoumaná města v dané zemi.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Evropská aliance pro veřejné zdraví (2018)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "€ na obyvatele",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
