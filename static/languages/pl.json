@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile kosztuje nasze zdrowie zanieczyszczenie powietrza?",
+  "subtitle": "Średnie koszty opieki zdrowotnej na osobę w UE spowodowane zanieczyszczeniem powietrza wynoszą łącznie 1276 euro rocznie.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Badanie przeprowadzono w 2018 roku w 432 wybranych miastach Europy. Widoczne dane dla poszczególnych krajów obliczono jako średnie na podstawie danych podanych dla badanych miast w danym kraju.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Europejski Sojusz na rzecz Zdrowia Publicznego (2018)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "€ na mieszkańca",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
