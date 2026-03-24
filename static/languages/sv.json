@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket kostar luftföroreningar vår hälsa?",
+  "subtitle": "De genomsnittliga hälsokostnaderna per capita i EU på grund av luftföroreningar uppgår till 1 276 euro per år.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Studien genomfördes 2018 för 432 utvalda städer i Europa. De synliga landsspecifika siffrorna beräknades som genomsnitt baserat på de siffror som anges för de undersökta städerna i respektive land.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Europeiska folkhälsoalliansen (2018)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "€ per capita",
   "tooltipExtraInfoLabel": "Klicka här"
 }
