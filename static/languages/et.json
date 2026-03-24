@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju õhusaaste meie tervisele maksma läheb?",
+  "subtitle": "Õhusaastest tingitud keskmised tervishoiukulud elaniku kohta ELis on kokku 1276 eurot aastas.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Uuring viidi läbi 2018. aastal 432 valitud Euroopa linnas. Nähtavad riigipõhised näitajad arvutati keskmisena vastava riigi uuritud linnade näitajate põhjal.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopa Rahvatervise Liit (2018)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "€ elaniku kohta",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
