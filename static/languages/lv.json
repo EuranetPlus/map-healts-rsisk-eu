@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz gaisa piesārņojums izmaksā mūsu veselībai?",
+  "subtitle": "Gaisa piesārņojuma radītās vidējās veselības aprūpes izmaksas uz vienu iedzīvotāju ES kopā sasniedz 1276 eiro gadā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Pētījums tika veikts 2018. gadā 432 atlasītās Eiropas pilsētās. Redzamie valstu rādītāji tika aprēķināti kā vidējie rādītāji, pamatojoties uz skaitļiem, kas sniegti attiecīgajā valstī pārbaudītajām pilsētām.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Sabiedrības veselības alianse (2018)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "€ uz vienu iedzīvotāju",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
