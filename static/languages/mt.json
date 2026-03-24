@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm qed jiswielna saħħitna t-tniġġis tal-arja?",
+  "subtitle": "L-ispejjeż medji tas-saħħa per capita fl-UE minħabba t-tniġġis tal-arja jammontaw għal €1276 fis-sena.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-istudju twettaq fl-2018 għal 432 belt magħżula fl-Ewropa. Iċ-ċifri speċifiċi għall-pajjiż li jidhru ġew ikkalkulati bħala medja abbażi taċ-ċifri li huma mogħtija għall-bliet eżaminati fil-pajjiż rispettiv.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Alleanza Ewropea għas-Saħħa Pubblika (2018)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "€ għal kull persuna",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
