@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon ilmansaasteet maksavat terveydellemme?",
+  "subtitle": "Ilmansaasteiden aiheuttamat keskimääräiset terveyskustannukset henkeä kohti EU:ssa ovat yhteensä 1 276 euroa vuodessa.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tutkimus tehtiin vuonna 2018 432 valitulle eurooppalaiselle kaupungille. Näkyvät maakohtaiset luvut laskettiin keskiarvona tarkastelluille kaupungeille kussakin maassa annettujen lukujen perusteella.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan kansanterveysallianssi (2018)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "€ henkeä kohti",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
