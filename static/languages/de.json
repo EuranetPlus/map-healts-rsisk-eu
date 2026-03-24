@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie hoch sind die Kosten der Luftverschmutzung für unsere Gesundheit?",
+  "subtitle": "Die durchschnittlichen Gesundheitskosten pro Kopf in der EU aufgrund der Luftverschmutzung belaufen sich auf insgesamt 1276 € pro Jahr.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Studie wurde 2018 für 432 ausgewählte Städte in Europa durchgeführt. Die angegebenen länderspezifischen Zahlen wurden als Durchschnittswerte auf Basis der für die untersuchten Städte im jeweiligen Land ermittelten Daten berechnet.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Europäische Allianz für öffentliche Gesundheit (2018)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "€ pro Kopf",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
