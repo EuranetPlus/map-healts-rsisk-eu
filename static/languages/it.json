@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanto costa alla nostra salute l'inquinamento atmosferico?",
+  "subtitle": "I costi sanitari medi pro capite nell'UE dovuti all'inquinamento atmosferico ammontano a 1276 euro all'anno.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Lo studio è stato condotto nel 2018 su 432 città selezionate in Europa. I dati specifici per ciascun paese sono stati calcolati come media dei dati relativi alle città esaminate in ogni singolo paese.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Alleanza europea per la salute pubblica (2018)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "€ per capita",
   "tooltipExtraInfoLabel": "clicca qui"
 }
