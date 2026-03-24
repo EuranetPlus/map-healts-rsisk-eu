@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le coût de la pollution atmosphérique pour notre santé ?",
+  "subtitle": "Les dépenses de santé moyennes par habitant dans l'UE dues à la pollution atmosphérique s'élèvent à 1276 € par an.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "L'étude a été menée en 2018 auprès de 432 villes européennes sélectionnées. Les chiffres spécifiques à chaque pays ont été calculés comme une moyenne à partir des données disponibles pour les villes étudiées dans chaque pays.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Alliance européenne pour la santé publique (2018)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "€ par habitant",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
