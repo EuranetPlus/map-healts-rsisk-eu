@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek oro tarša kainuoja mūsų sveikatai?",
+  "subtitle": "Vidutinės sveikatos priežiūros išlaidos vienam gyventojui dėl oro taršos ES siekia 1276 EUR per metus.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Tyrimas atliktas 2018 m. 432 atrinktuose Europos miestuose. Matomi konkrečioms šalims skirti skaičiai buvo apskaičiuoti kaip vidurkis, remiantis atitinkamos šalies tirtų miestų skaičiais.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Europos visuomenės sveikatos aljansas (2018 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "€ vienam gyventojui",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
